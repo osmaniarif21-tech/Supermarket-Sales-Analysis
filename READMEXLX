@@ -1,0 +1,101 @@
+Supermarket Sales Analysis
+
+Project Overview
+
+This project analyzes supermarket sales data using Microsoft Excel. The goal is to identify sales trends, evaluate product profitability, compare branch performance, and generate actionable business insights.
+
+Dataset
+
+The dataset contains 500 sales transactions and includes:
+
+3 Branches
+
+3 Cities
+
+4 Product Categories
+
+28 Products
+
+Payment Methods
+
+Customer Types
+
+Tools & Skills
+
+Microsoft Excel
+
+Data Cleaning and Preparation
+
+Excel Formulas
+
+PivotTables
+
+PivotCharts
+
+KPI Analysis
+
+Data Visualization
+
+Dashboard Development
+
+Business Insights
+
+Key Performance Indicators (KPIs)
+
+KPI
+
+Result
+
+Total Revenue
+
+77,240.32
+
+Total Gross Profit
+
+26,575.88
+
+Gross Profit Margin
+
+34.41%
+
+Total Transactions
+
+500
+
+Key Business Insights
+
+Category Performance: Food generated the highest revenue, reaching 21,622.40.
+
+Profitability: Household achieved the highest gross profit margin at 34.96%.
+
+Product Performance: Trash Bags generated the highest gross profit at 1,775.28.
+
+Branch Performance: Branch A generated the highest revenue among the three branches.
+
+Monthly Trends: May recorded the highest monthly revenue at 8,040.43.
+
+Dashboard
+
+The Excel dashboard presents key business metrics and visualizations, including:
+
+Revenue by Product Category
+
+Gross Profit by Product Category
+
+Monthly Sales Trends
+
+Transactions by Payment Method
+
+Transactions by Customer Type
+
+Revenue by Branch and City
+
+Quantity Sold by Product
+
+Project Objective
+
+The objective of this project was to transform raw sales data into meaningful business insights and present the results through a structured Excel dashboard to support data-driven decision-making.
+
+Project: Supermarket Sales Analysis
+Tool: Microsoft Excel
+Author: Data Analyst Portfolio Project
